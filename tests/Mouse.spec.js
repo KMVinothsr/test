@@ -43,6 +43,6 @@ test('Double Click',async({page}) =>{
 
 })
 
-test("Drog Drop",async ({page}) =>{
+// test("Drog Drop",async ({page}) =>{
 
-})
+// })

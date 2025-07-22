@@ -1,0 +1,8 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","11185","Double Click","chromium","Sun Jul 20 15:49:01 IST 2025","failed","Sun Jul 20 15:49:12 IST 2025","","Mouse.spec.js","",""
+"","30453","Right Click","chromium","Sun Jul 20 15:48:27 IST 2025","broken","Sun Jul 20 15:48:58 IST 2025","","Mouse.spec.js","",""
+"","1448","get started link","chromium","Sun Jul 20 15:42:00 IST 2025","passed","Sun Jul 20 15:42:02 IST 2025","","example.spec.js","",""
+"","14857","MultipleDrop","chromium","Sun Jul 20 15:43:05 IST 2025","passed","Sun Jul 20 15:43:20 IST 2025","","MultipleDrop.spec.js","",""
+"","4620","Assertion","chromium","Sun Jul 20 15:47:01 IST 2025","failed","Sun Jul 20 15:47:05 IST 2025","","Assertion.spec.js","",""
+"","1469","has title","chromium","Sun Jul 20 15:41:58 IST 2025","passed","Sun Jul 20 15:42:00 IST 2025","","example.spec.js","",""
+"","1294","Mouse Action","chromium","Sun Jul 20 15:48:23 IST 2025","failed","Sun Jul 20 15:48:25 IST 2025","","Mouse.spec.js","",""
